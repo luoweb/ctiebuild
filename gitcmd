@@ -1,0 +1,1 @@
+git clone  -v --recurse-submodules --progress --branch 1508_N "ssh://kfzx-luowb@122.18.13.20:29418/ctie/ctie"

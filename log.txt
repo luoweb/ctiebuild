@@ -1,0 +1,105 @@
+2015-07-08 09:31:01 AUTO_CTIE-CTIE_1507_N1_20150707_102.csv is created!
+2015-07-08 09:31:01 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01.01"}) 
+2015-07-08 09:31:01 Format AUTO_CTIE-CTIE_1507_N1_20150707_102.csv finished
+2015-07-08 09:31:04 Import test list to  MongoDB finished!
+2015-07-08 10:37:42 CTIE-CTIE_1507INT_N1_DEV_20150707_100.csv is created!
+2015-07-08 10:37:42 execute command: db.ctievers.insert({name:"1507N1",verno:"F-CTIE V2.53.01.01"}) 
+2015-07-08 10:37:43 Format CTIE-CTIE_1507INT_N1_DEV_20150707_100.csv finished
+2015-07-08 10:37:43 Import test list to  MongoDB finished!
+2015-07-08 18:43:25 2.53.01.00.csv is created!
+2015-07-08 18:43:25 execute command: db.ctievers.insert({name:"CTIE-ADMIN_1507INT_N_20150629_100",verno:"F-CTIE Vadmin"}) 
+2015-07-08 18:43:26 Format 2.53.01.00.csv finished
+2015-07-08 18:43:26 Import test list to  MongoDB finished!
+2015-07-17 12:21:45 3f64b9ea0700c4a950473428cc6a1741fbe38ad2.csv is created!
+2015-07-17 12:21:45 execute command: db.ctievers.insert({name:"1507_N1",verno:"F-CTIE V2.53.01.2"}) 
+2015-07-17 12:21:46 Format 3f64b9ea0700c4a950473428cc6a1741fbe38ad2.csv finished
+2015-07-17 12:21:47 Import test list to  MongoDB finished!
+2015-07-23 12:57:05 abc
+2015-07-23 12:57:25 abc
+2015-07-23 12:57:35 log.txt abc
+2015-07-23 12:58:46 log.txt abc
+2015-07-23 12:58:54 log.txt abc! 
+2015-07-29 16:28:38 /data/luowb/ctie/tag/TAG_2.53.01.7_tag/CTIE-ADMIN_1507INT_N_TFIX_20150725_110.csv_CTIE-ADMIN_1507INT_N_TFIX_20150729_113.csv is created
+2015-07-29 16:28:38 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01.7"}) 
+2015-07-29 16:28:38 Format /data/luowb/ctie/tag/TAG_2.53.01.7_tag/CTIE-ADMIN_1507INT_N_TFIX_20150725_110.csv_CTIE-ADMIN_1507INT_N_TFIX_20150729_113.csv finished
+2015-07-29 16:28:38 export code detail start
+2015-07-29 16:28:38 export code detail fininshed
+2015-07-29 16:28:38 Import test list to  MongoDB finished
+2015-07-29 16:28:51 /data/luowb/ctie/tag/TAG_2.53.01.7_tag/CTIE-ADMIN_1507INT_N_TFIX_20150725_110_CTIE-ADMIN_1507INT_N_TFIX_20150729_113.csv is created
+2015-07-29 16:28:51 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01.7"}) 
+2015-07-29 16:28:52 Format /data/luowb/ctie/tag/TAG_2.53.01.7_tag/CTIE-ADMIN_1507INT_N_TFIX_20150725_110_CTIE-ADMIN_1507INT_N_TFIX_20150729_113.csv finished
+2015-07-29 16:28:52 export code detail start
+2015-07-29 16:28:52 export code detail fininshed
+2015-07-29 16:28:52 Import test list to  MongoDB finished
+2015-07-29 16:29:04 /data/luowb/ctie/tag/TAG_2.53.01.7_CTIE-ADMIN_1507INT_N_TFIX_20150725_110_CTIE-ADMIN_1507INT_N_TFIX_20150729_113.csv is created
+2015-07-29 16:29:04 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01.7"}) 
+2015-07-29 16:29:04 Format /data/luowb/ctie/tag/TAG_2.53.01.7_CTIE-ADMIN_1507INT_N_TFIX_20150725_110_CTIE-ADMIN_1507INT_N_TFIX_20150729_113.csv finished
+2015-07-29 16:29:05 export code detail start
+2015-07-29 16:29:05 export code detail fininshed
+2015-07-29 16:29:05 Import test list to  MongoDB finished
+2015-07-31 12:39:55 git fetch --pregress --all
+2015-07-31 12:39:58 parse git diff
+2015-07-31 12:39:59 /data/luowb/ctie/tag/TAG_2.53.01001.8_CTIE-CTIE_1507INT_N_TFIX_20150730_128_CTIE-CTIE_1507INT_N_TFIX_20150731_129.csv is created
+2015-07-31 12:39:59 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01001.8",stag:"CTIE-CTIE_1507INT_N_TFIX_20150730_128",etag:"CTIE-CTIE_1507INT_N_TFIX_20150731_129"}) 
+2015-07-31 12:39:59 Format /data/luowb/ctie/tag/TAG_2.53.01001.8_CTIE-CTIE_1507INT_N_TFIX_20150730_128_CTIE-CTIE_1507INT_N_TFIX_20150731_129.csv finished
+2015-07-31 12:39:59 Import test list to  MongoDB finished
+2015-07-31 13:19:11 git fetch --pregress --all
+2015-07-31 13:19:11 parse git diff
+2015-07-31 13:19:12 /data/luowb/ctie/tag/TAG_2.53.01001.8_CTIE-CTIE_1507INT_N_TFIX_20150730_128_CTIE-CTIE_1507INT_N_TFIX_20150731_129.csv is created
+2015-07-31 13:19:12 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01001.8",stag:"CTIE-CTIE_1507INT_N_TFIX_20150730_128",etag:"CTIE-CTIE_1507INT_N_TFIX_20150731_129"}) 
+2015-07-31 13:19:12 Format /data/luowb/ctie/tag/TAG_2.53.01001.8_CTIE-CTIE_1507INT_N_TFIX_20150730_128_CTIE-CTIE_1507INT_N_TFIX_20150731_129.csv finished
+2015-07-31 13:19:13 Import test list to  MongoDB finished
+2015-07-31 13:23:52 git fetch --pregress --all
+2015-07-31 13:23:53 parse git diff
+2015-07-31 13:23:53 /data/luowb/ctie/tag/TAG_2.53.01001.8_CTIE-CTIE_1507INT_N_TFIX_20150730_128_CTIE-CTIE_1507INT_N_TFIX_20150731_129.csv is created
+2015-07-31 13:23:53 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01001.8",stag:"CTIE-CTIE_1507INT_N_TFIX_20150730_128",etag:"CTIE-CTIE_1507INT_N_TFIX_20150731_129"}) 
+2015-07-31 13:23:54 Format /data/luowb/ctie/tag/TAG_2.53.01001.8_CTIE-CTIE_1507INT_N_TFIX_20150730_128_CTIE-CTIE_1507INT_N_TFIX_20150731_129.csv finished
+2015-07-31 13:23:54 Import test list to  MongoDB finished
+2015-07-31 13:26:59 git fetch --pregress --all
+2015-07-31 13:27:00 parse git diff
+2015-07-31 13:27:01 /data/luowb/ctie/tag/TAG_2.53.01001.8_CTIE-CTIE_1507INT_N_TFIX_20150730_128_CTIE-CTIE_1507INT_N_TFIX_20150731_129.csv is created
+2015-07-31 13:27:01 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01001.8",stag:"CTIE-CTIE_1507INT_N_TFIX_20150730_128",etag:"CTIE-CTIE_1507INT_N_TFIX_20150731_129"}) 
+2015-07-31 13:27:01 Format /data/luowb/ctie/tag/TAG_2.53.01001.8_CTIE-CTIE_1507INT_N_TFIX_20150730_128_CTIE-CTIE_1507INT_N_TFIX_20150731_129.csv finished
+2015-07-31 13:27:01 Import test list to  MongoDB finished
+2015-07-31 13:51:18 git fetch --pregress --all
+2015-07-31 13:51:20 parse git diff
+2015-07-31 13:51:21 /data/luowb/ctie/tag/TAG_2.53.01001.8_CTIE-CTIE_1507INT_N_TFIX_20150730_128_CTIE-CTIE_1507INT_N_TFIX_20150731_129.csv is created
+2015-07-31 13:51:21 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01001.8",stag:"CTIE-CTIE_1507INT_N_TFIX_20150730_128",etag:"CTIE-CTIE_1507INT_N_TFIX_20150731_129"}) 
+2015-07-31 13:51:21 Format /data/luowb/ctie/tag/TAG_2.53.01001.8_CTIE-CTIE_1507INT_N_TFIX_20150730_128_CTIE-CTIE_1507INT_N_TFIX_20150731_129.csv finished
+2015-07-31 13:51:21 Import test list to  MongoDB finished
+2015-08-03 08:59:08 git fetch --pregress --all
+2015-08-03 08:59:10 parse git diff
+2015-08-03 08:59:10 /data/luowb/ctie/tag/TAG_2.53.01.7_CTIE-ADMIN_1507INT_N_TFIX_20150725_110_CTIE-ADMIN_1507INT_N_TFIX_20150729_113.csv is created
+2015-08-03 08:59:10 execute command: db.ctievers.insert({name:"1507N1",verno:"F-CTIE V2.53.01.7",stag:"CTIE-ADMIN_1507INT_N_TFIX_20150725_110",etag:"CTIE-ADMIN_1507INT_N_TFIX_20150729_113"}) 
+2015-08-03 08:59:11 Format /data/luowb/ctie/tag/TAG_2.53.01.7_CTIE-ADMIN_1507INT_N_TFIX_20150725_110_CTIE-ADMIN_1507INT_N_TFIX_20150729_113.csv finished
+2015-08-03 08:59:11 Import test list to  MongoDB finished
+2015-08-03 09:00:27 git fetch --pregress --all
+2015-08-03 09:00:28 parse git diff
+2015-08-03 09:00:28 /data/luowb/ctie/tag/TAG_2.53.01.7_CTIE-ADMIN_1507INT_N_TFIX_20150725_110_CTIE-ADMIN_1507INT_N_TFIX_20150729_113.csv is created
+2015-08-03 09:00:28 execute command: db.ctievers.insert({name:"1507N1",verno:"F-CTIE V2.53.01.7",stag:"CTIE-ADMIN_1507INT_N_TFIX_20150725_110",etag:"CTIE-ADMIN_1507INT_N_TFIX_20150729_113"}) 
+2015-08-03 09:00:28 Format /data/luowb/ctie/tag/TAG_2.53.01.7_CTIE-ADMIN_1507INT_N_TFIX_20150725_110_CTIE-ADMIN_1507INT_N_TFIX_20150729_113.csv finished
+2015-08-03 09:00:29 Import test list to  MongoDB finished
+2015-08-03 11:15:18 git fetch --pregress --all
+2015-08-03 11:15:25 parse git diff
+2015-08-03 11:15:26 /data/luowb/ctie/tag/TAG_2.53.01001.9_CTIE-CTIE_1507INT_N_TFIX_20150731_129_CTIE-CTIE_1507INT_N_TFIX_20150803_130.csv is created
+2015-08-03 11:15:26 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01001.9",stag:"CTIE-CTIE_1507INT_N_TFIX_20150731_129",etag:"CTIE-CTIE_1507INT_N_TFIX_20150803_130"}) 
+2015-08-03 11:15:26 Format /data/luowb/ctie/tag/TAG_2.53.01001.9_CTIE-CTIE_1507INT_N_TFIX_20150731_129_CTIE-CTIE_1507INT_N_TFIX_20150803_130.csv finished
+2015-08-03 11:15:27 Import test list to  MongoDB finished
+2015-08-03 13:28:48 git fetch --pregress --all
+2015-08-03 13:28:55 parse git diff
+2015-08-03 13:29:00 /data/luowb/ctie/tag/TAG_2.54.01.08_CTIE-CTIE_1508INT_N_DEV_20150730_111_CTIE-CTIE_1508INT_N_DEV_20150803_112.csv is created
+2015-08-03 13:29:01 execute command: db.ctievers.insert({name:"1508N",verno:"F-CTIE V2.54.01.08",stag:"CTIE-CTIE_1508INT_N_DEV_20150730_111",etag:"CTIE-CTIE_1508INT_N_DEV_20150803_112"}) 
+2015-08-03 13:29:01 Format /data/luowb/ctie/tag/TAG_2.54.01.08_CTIE-CTIE_1508INT_N_DEV_20150730_111_CTIE-CTIE_1508INT_N_DEV_20150803_112.csv finished
+2015-08-03 13:29:01 Import test list to  MongoDB finished
+2015-08-04 12:26:40 git fetch --pregress --all
+2015-08-04 12:26:43 parse git diff
+2015-08-04 12:26:44 /data/luowb/ctie/tag/TAG_2.53.01001.10_CTIE-CTIE_1507INT_N_TFIX_20150803_130_CTIE-CTIE_1507INT_N_TFIX_20150804_131.csv is created
+2015-08-04 12:26:44 execute command: db.ctievers.insert({name:"1507N",verno:"F-CTIE V2.53.01001.10",stag:"CTIE-CTIE_1507INT_N_TFIX_20150803_130",etag:"CTIE-CTIE_1507INT_N_TFIX_20150804_131"}) 
+2015-08-04 12:26:45 Format /data/luowb/ctie/tag/TAG_2.53.01001.10_CTIE-CTIE_1507INT_N_TFIX_20150803_130_CTIE-CTIE_1507INT_N_TFIX_20150804_131.csv finished
+2015-08-04 12:26:45 Import test list to  MongoDB finished
+2015-08-04 14:51:08 git fetch --pregress --all
+2015-08-04 14:51:11 parse git diff
+2015-08-04 14:51:19 /data/luowb/ctie/tag/TAG_2.54.01.08_CTIE-CTIE_1508INT_N_DEV_20150730_111_CTIE-CTIE_1508INT_N_TFIX_20150804_114.csv is created
+2015-08-04 14:51:19 execute command: db.ctievers.insert({name:"1508N",verno:"F-CTIE V2.54.01.08",stag:"CTIE-CTIE_1508INT_N_DEV_20150730_111",etag:"CTIE-CTIE_1508INT_N_TFIX_20150804_114"}) 
+2015-08-04 14:51:20 Format /data/luowb/ctie/tag/TAG_2.54.01.08_CTIE-CTIE_1508INT_N_DEV_20150730_111_CTIE-CTIE_1508INT_N_TFIX_20150804_114.csv finished
+2015-08-04 14:51:20 Import test list to  MongoDB finished
